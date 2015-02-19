@@ -20,7 +20,7 @@ This repo contains the following files.
 
 The 'run_analysis.r' file in this repo processes the data as described below.  
 
-a.  Read the data files provided.  
+a.  Download the zip file from the url provided, unzip and read the data files.  
 b.  Match corresponding data to provide a complete data set.  
 c.  Using text files provided add column names to the complete data set.  
 d.  Using the test files provided, add descriptions of the activities to the complete data set.  
